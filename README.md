@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/69152112/216766121-b2d23239-adf0-490e-b5fb-5957062fde02.png)
 
-## Topics Covered for Oops:
+## Topics Covered in Oops:
 
 #### 1. Class
 #### 2. Object
