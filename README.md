@@ -8,4 +8,6 @@ Object Oriented Programming in Python
 #### 1. Class
 #### 2. Object
 #### 3. Inheritance (Simple Leven,Multi Level and Multiple Level)
-
+#### 4. Polymorphism
+#### 5. Encapsulation
+#### 6. Abstraction
