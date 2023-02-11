@@ -6,7 +6,12 @@
 
 #### 1. Class
 #### 2. Object
-#### 3. Inheritance (Single Level Inheritance,Multi Level Inheritance, Multiple Inheritance,Hierarchical Inheritance and Hybrid Inheritance)
+#### 3. Inheritance 
+###### i. Single Level Inheritance,
+###### ii. Multi Level Inheritance, 
+###### iii. Multiple Inheritance,
+###### vi. Hierarchical Inheritance and 
+###### v. Hybrid Inheritance)
 #### 4. Polymorphism
 #### 5. Encapsulation
 #### 6. Abstraction
