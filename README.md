@@ -1,6 +1,6 @@
 # Object-Oriented-Programming-in-Python
 
-![image](https://user-images.githubusercontent.com/69152112/216766121-b2d23239-adf0-490e-b5fb-5957062fde02.png)
+![image](https://user-images.githubusercontent.com/69152112/218257951-70f7a50a-9bae-49dc-8269-d3439cf070db.png)
 
 ## Topics Covered in Oops:
 
@@ -11,7 +11,7 @@
 ###### ii. Multi Level Inheritance, 
 ###### iii. Multiple Inheritance,
 ###### vi. Hierarchical Inheritance and 
-###### v. Hybrid Inheritance)
+###### v. Hybrid Inheritance
 #### 4. Polymorphism
 #### 5. Encapsulation
 #### 6. Abstraction
